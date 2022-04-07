@@ -8,7 +8,12 @@ Lighthouse is a tool created by Google to evaluate sites quality. This script ge
 - Clipboardy
 
 ## Step by Step
-**1. Run lighthouse do get your data** ``$ lighthouse-batch -f exemple.txt -o exemple``
+**1. Run lighthouse do get your data** 
+``$ lighthouse-batch -f exemple.txt -o exemple``
+
 **2. Process the file**
-``$ node lighthouse-to-spreedsheet exemple/summary.json`` 
+``$ node lighthouse-to-spreedsheet.js exemple/summary.json`` (the result will automaticly copy to your clipboard)
+
 **3. Paste in your spreedsheet**
+![image](https://user-images.githubusercontent.com/2649760/162258463-fe36d954-59b1-46e4-a3c7-c9059f258605.png)
+The result will be like this ;D
