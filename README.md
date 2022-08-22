@@ -8,7 +8,7 @@ Lighthouse is a tool created by Google to evaluate sites quality. This script ge
 - Clipboardy
 
 ## Step by Step
-**1. Run lighthouse do get your data** 
+**1. Run lighthouse to get your data** 
 ``$ lighthouse-batch -f exemple.txt -o exemple``
 
 **2. Process the file**
