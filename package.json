@@ -1,0 +1,20 @@
+{
+  "name": "lighthouse-to-spreedsheet",
+  "version": "1.0.0",
+  "description": "## How it works Lighthouse is a tool created by Google to evaluate sites quality. This script get the json output from a lib called [lighthouse-batch](https://www.npmjs.com/package/lighthouse-batch) and process it to output a spreadsheet friendly summaryt format to paste in your favorite spreedsheet app.",
+  "main": "lighthouse-to-spreedsheet.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clenio/lighthouse-to-spreedsheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clenio/lighthouse-to-spreedsheet/issues"
+  },
+  "homepage": "https://github.com/clenio/lighthouse-to-spreedsheet#readme"
+}
